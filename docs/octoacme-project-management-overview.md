@@ -17,8 +17,14 @@ Applies to all cross-functional projects that deliver product features, services
 - Project Manager (PM): coordinates delivery, schedules, risk, communications.
 - Product Manager (PdM): defines outcomes, prioritizes backlog, and measures success.
 - Developers: implement features, collaborate on design and testability.
+- UX Designer: drives user research, wireframes, and design quality.
+- Security Lead: manages security requirements and threat modeling.
+- Business Analyst: bridges business needs and technical requirements.
 - QA/Testing: validate quality and acceptance criteria.
 - Stakeholders: provide inputs and approvals.
+
+See [Roles and Personas](./octoacme-roles-and-personas.md) for full role descriptions and interaction patterns.
+See [Role Collaboration Matrix](./octoacme-role-collaboration-matrix.md) for a RACI overview across lifecycle phases.
 
 ## Key Artifacts
 - Project Charter / One-pager
@@ -44,3 +50,4 @@ Applies to all cross-functional projects that deliver product features, services
 ## How to use these docs
 - Keep the Project Charter updated in the project repo.
 - Add process-specific docs into `.copilot/` if you want Copilot Spaces to use them as context.
+- Use the [Cross-Functional Handoff Checklist](./octoacme-cross-functional-handoff-checklist.md) to confirm readiness at key lifecycle transitions.
